@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/> 
+    <title>Your Funding Company</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <a href="index.html">YourFundingCo</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Empower Your Growth with Flexible Funding</h1>
+            <p>At YourFundingCo, we partner with entrepreneurs, startups, and established businesses to provide the capital and guidance they need to thrive. Let us help you reach the next level.</p>
+            <a href="contact.html" class="cta-button">Get Started</a>
+        </div>
+    </section>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We’re a team of financial experts, visionary strategists, and dedicated advisors committed to fueling the potential of innovative businesses. Our mission is simple: to break down financial barriers and open doors to opportunity. With decades of combined experience in finance, venture capital, and business development, we understand that every company’s journey is unique. We tailor our funding solutions to your specific goals and aspirations, ensuring you have both the resources and the strategic support needed to soar.</p>
+            
+            <p>From short-term loans to strategic investment partnerships, we believe in forging long-term relationships built on transparency, mutual trust, and tangible results. Whether you’re looking to scale an existing operation or launch a disruptive newcomer, YourFundingCo is here to help you navigate the road to success—on your terms.</p>
+        </div>
+    </section>
+    
+    <footer class="footer">
+        <p>© 2024 YourFundingCo. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
